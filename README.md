@@ -19,10 +19,10 @@ I believe in the fact that we can accomplish everything we put our mind too.
 🌀 Reach me on: Lennartbirk@gmail.com
 </p>
 
-<h2 align="left">Vocabulary</h2>
+<h2 align="left">Tool Box</h2>
 PostrgeSQL
 MariaDB
-JAVA
+Java
 C#
 Python
 Go
