@@ -31,3 +31,4 @@ Go
 <h2 align="left">Future Projects</h2>
 Svelte
 React
+Azure
