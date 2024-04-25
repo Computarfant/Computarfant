@@ -10,16 +10,16 @@ I believe in the fact that we can accomplish everything we put our mind too.
 
 <p align="left"> ⛈️ Portfolio website: Work in Progress
   </br>
-🏛️ At the time I'm studiying for the bachelore's degrees in 
+🏛️ At the time I'm studying for the bachelore's degrees in 
   </br>
-🔬 IT and Information Systems & Economics and Adminstration
+🔬 IT and Information Systems & Economics and Administration
   </br> 
-⛺ I am currently reciding in Kristiansand, Norway
+⛺ I am currently residing in Kristiansand, Norway
   </br>
 🌀 Reach me on: Lennartbirk@gmail.com
 </p>
 
-<h2 align="left">Tool Box</h2>
+<h2 align="left">Toolbox</h2>
 PostrgeSQL
 MariaDB
 Java
