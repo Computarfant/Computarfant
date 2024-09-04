@@ -27,8 +27,11 @@ C#
 Python
 Go
 .Net
+Docker
 
 <h2 align="left">Future Projects</h2>
 Svelte
 React
 Azure
+Php
+
